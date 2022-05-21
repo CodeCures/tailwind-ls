@@ -16,7 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
               <br class="hidden lg:inline">
               <span class="text-indigo-600">Take advantage of it.</span></h1>
             <p class="text-gray-600 leading-tight sm:text-lg"> Workcation helps you find work-friendly rentals in beautiful locations so you can enjoy some nice weather even when you're not on vacation.</p>
-            <a class="inline-block bg-indigo-500 text-white text-xs sm:text-base tracking-wider uppercase font-semibold rounded-lg px-4 py-2 shadow-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 hover:bg-indigo-400 hover:-translate-y-0.5 active:bg-indigo-600  transition" href="javascript:void(0)">Book Your Escape</a>
+            <a class="btn" href="javascript:void(0)">Book Your Escape</a>
           </div>
         </div>
       </div>
